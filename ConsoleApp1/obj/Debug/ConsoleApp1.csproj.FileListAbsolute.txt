@@ -1,0 +1,13 @@
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\RawPrint.dll
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\RP.exe
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\RawPrint.pdb
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\RP.pdb
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\dtran.ENLABEL\Downloads\RawPrint-master (1)\RawPrint-master\ConsoleApp1\bin\Debug\AAA.ps
